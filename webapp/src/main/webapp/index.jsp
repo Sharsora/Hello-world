@@ -32,6 +32,6 @@
   </div>
 
    <h1> Thankyou, Happy Learning </h1>
-   <h1> Shivangi H </h1>
+   <h1> Shivangi Harsora </h1>
 
 </form>
